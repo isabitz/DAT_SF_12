@@ -87,3 +87,4 @@ Project Schedule
 | 3/10 | ***Midterm Assessment Due*** | |
 | 3/17 | At least one working model | |
 | 3/24-26 | **Final Presentations (12 minutes each)** | Midterm Graded |
+# whales
