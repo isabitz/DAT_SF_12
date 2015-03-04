@@ -91,8 +91,6 @@ Project Schedule
 | 3/10 | ***Midterm Assessment Due*** | |
 | 3/17 | At least one working model | |
 | 3/24-26 | **Final Presentations (12 minutes each)** | Midterm Graded |
-<<<<<<< HEAD
-# whales
 =======
 
 Student Project Repos:
@@ -118,9 +116,4 @@ Student Project Repos:
 | Bing	Wang	| [bingbingboo/DAT_SF_12/blob/gh-pages/Homework/2014flightdatalab.ipynb](http://github.com/bingbingboo/DAT_SF_12/blob/gh-pages/Homework/2014flightdatalab.ipynb) |
 | Jaime	Williams	| [jawilliams3000/OaklandCrime](http://github.com/jawilliams3000/OaklandCrime) |
 | David	Yerrington	| [dyerrington/Rapstats](http://github.com/dyerrington/Rapstats) |
-<<<<<<< HEAD
- 
->>>>>>> 922455e3262c6cf1eb483e01defe7765c1d4a807
-=======
 | Matt  Jones   | [jonesmatt415/NCAA-Prediction-Project-](https://github.com/jonesmatt415/NCAA-Prediction-Project-) | 
->>>>>>> a71381d39b700707910f2950ba9aa41bda804091
